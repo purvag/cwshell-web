@@ -69,7 +69,9 @@
           <execution>
             <goals>
               <goal>compile</goal>
+              <!-- 
               <goal>test</goal>
+               -->
               <goal>i18n</goal>
               <goal>generateAsync</goal>
             </goals>
