@@ -78,7 +78,7 @@
         <!-- Plugin configuration. There are many available options, see 
           gwt-maven-plugin documentation at codehaus.org -->
         <configuration>
-          <runTarget>Sample.html</runTarget>
+          <runTarget>web.html</runTarget>
           <hostedWebapp>${webappDirectory}</hostedWebapp>
           <i18nMessagesBundle>edu.siu.cs.cwshell.client.Messages</i18nMessagesBundle>
         </configuration>
